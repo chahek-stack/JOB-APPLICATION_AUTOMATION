@@ -21,6 +21,8 @@ This project automates job application tracking using notion , google sheets , g
     - Data is sent via HTTP request (JSON) to webhook
   * SCREENSHOTS
     Screen Shot 2026-04-02 at 7.51.23 PM.png
+    Screen Shot 2026-04-02 at 7.52.38 PM.png
+    Screen Shot 2026-04-02 at 8.38.56 P
     
   * CONCLUSION
     This project demonstrates automation,data intigration , and API communication in real-world workflow

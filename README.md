@@ -22,7 +22,7 @@ This project automates job application tracking using notion , google sheets , g
   * SCREENSHOTS
     -NOTION(notion.png)
     -MAKE(make.png)
-    -WEBHOOK(webhook.png)
+    -WEBHOOK(Screen Shot 2026-04-02 at 8.38.56 PM.png)
     
   * CONCLUSION
     -This project demonstrates automation,data intigration , and API communication in real-world workflow

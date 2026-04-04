@@ -20,14 +20,11 @@ This project automates job application tracking using notion , google sheets , g
     - Email notification is triggered
     - Data is sent via HTTP request (JSON) to webhook
   * SCREENSHOTS
-    -MAKE(aw.githubusercontent.com/chahek-stack/JOB- 
-     APPLICATION_AUTOMATION/refs/heads/main/Screen%20Shot%202026-04-02%20at%207.52.38%20PM.png)
+    -MAKE(https://raw.githubusercontent.com/chahek-stack/JOB-APPLICATION_AUTOMATION/refs/heads/main/Screen%20Shot%202026-04-02%20at%207.52.38%20PM.png)
     
-    -NOTION(https://raw.githubusercontent.com/chahek-stack/JOB- 
-     APPLICATION_AUTOMATION/refs/heads/main/Screen%20Shot%202026-04-02%20at%207.37.38%20PM.png)
+    -NOTION(https://raw.githubusercontent.com/chahek-stack/JOB-APPLICATION_AUTOMATION/refs/heads/main/Screen%20Shot%202026-04-02%20at%207.37.38%20PM.png)
     
-    -WEBHOOK(https://raw.githubusercontent.com/chahek-stack/JOB- 
-     APPLICATION_AUTOMATION/refs/heads/main/Screen%20Shot%202026-04-02%20at%208.38.56%20PM.png)
+    -WEBHOOK(https://raw.githubusercontent.com/chahek-stack/JOB-APPLICATION_AUTOMATION/refs/heads/main/Screen%20Shot%202026-04-02%20at%208.38.56%20PM.png)
     
   * CONCLUSION
     -This project demonstrates automation,data intigration , and API communication in real-world workflow

@@ -20,8 +20,8 @@ This project automates job application tracking using notion , google sheets , g
     - Email notification is triggered
     - Data is sent via HTTP request (JSON) to webhook
   * SCREENSHOTS
-    -NOTION(Screen Shot 2026-04-02 at 7.52.38 PM.png)
-    -MAKE(make.png)
+    -MAKE(Screen Shot 2026-04-02 at 7.52.38 PM.png)
+    -NOTION(Screen Shot 2026-04-02 at 7.37.38 PM.png)
     -WEBHOOK(Screen Shot 2026-04-02 at 8.38.56 PM.png)
     
   * CONCLUSION

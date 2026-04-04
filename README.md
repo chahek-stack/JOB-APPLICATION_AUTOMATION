@@ -21,7 +21,8 @@ This project automates job application tracking using notion , google sheets , g
     - Data is sent via HTTP request (JSON) to webhook
   * SCREENSHOTS
     -MAKE(Screen Shot 2026-04-02 at 7.52.38 PM.png)
-    -NOTION(Screen Shot 2026-04-02 at 7.37.38 PM.png)
+    -NOTION(https://raw.githubusercontent.com/chahek-stack/JOB- 
+     APPLICATION_AUTOMATION/refs/heads/main/Screen%20Shot%202026-04-02%20at%207.37.38%20PM.png)
     -WEBHOOK(Screen Shot 2026-04-02 at 8.38.56 PM.png)
     
   * CONCLUSION
